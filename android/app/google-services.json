@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580116459215",
+    "firebase_url": "https://elgrahy-dentail.firebaseio.com",
+    "project_id": "elgrahy-dentail",
+    "storage_bucket": "elgrahy-dentail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580116459215:android:8664834440282c0bb8d1ba",
+        "android_client_info": {
+          "package_name": "com.example.dental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580116459215-orpb4ohnd9vmmt91h2mff7qpbcvhs55h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrHc2vEpHJ8frdiSKthnYN4F_6TzvB-0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580116459215-orpb4ohnd9vmmt91h2mff7qpbcvhs55h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
